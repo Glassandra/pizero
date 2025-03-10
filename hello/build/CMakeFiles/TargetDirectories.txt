@@ -1,0 +1,13 @@
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/CMakeFiles/edit_cache.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/CMakeFiles/rebuild_cache.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/CMakeFiles/list_install_components.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/CMakeFiles/install.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/CMakeFiles/install/local.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/CMakeFiles/install/strip.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/src/CMakeFiles/hello.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/src/CMakeFiles/edit_cache.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/src/CMakeFiles/rebuild_cache.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/src/CMakeFiles/list_install_components.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/src/CMakeFiles/install.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/src/CMakeFiles/install/local.dir
+/home/cass/Documents/Projects/gittest2/pizero/hello/build/src/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+/usr/local/bin/heap
+/usr/local/bin/stack
+/usr/local/bin/heap
+/usr/local/bin/stack

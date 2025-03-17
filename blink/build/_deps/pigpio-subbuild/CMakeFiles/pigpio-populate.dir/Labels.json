@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/CMakeFiles/pigpio-populate"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/CMakeFiles/pigpio-populate.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/CMakeFiles/pigpio-populate-complete.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-build.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-configure.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-download.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-install.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-patch.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-test.rule"
+		},
+		{
+			"file" : "/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pigpio-populate"
+		],
+		"name" : "pigpio-populate"
+	}
+}

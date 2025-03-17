@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/blink.dir/blink.c.o -o /home/cass/Documents/Projects/gittest2/pizero/blink/bin/blink  -Wl,-rpath,/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-build: ../_deps/pigpio-build/libpigpio.so 

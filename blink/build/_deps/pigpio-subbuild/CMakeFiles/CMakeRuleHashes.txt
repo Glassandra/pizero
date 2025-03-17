@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+6698897fc5ad23bac736c65f9e39a47f CMakeFiles/pigpio-populate
+8c14fe6e13a97e0fec4e3c0f3f0e0ee5 CMakeFiles/pigpio-populate-complete
+d373fd3f9a34dd27ec930f4d7d5dfed6 pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-build
+ef79f5f0ebb309ca752897d5237a25be pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-configure
+b578388a05a72ce50c6b0e4cf0e4b264 pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-download
+18851a5106265a91a1e6d135811399cc pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-install
+6fae35bfdcd5ce1eb0953af2b76adba6 pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-mkdir
+b34817dd2f6c71668f14c08f01970039 pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-patch
+0bf0852c569efd47fe553b9f939ac1bf pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-test
+382c41ad77ebb908470c313b158dd7fb pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-update

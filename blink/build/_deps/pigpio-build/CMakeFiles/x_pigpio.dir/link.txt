@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/x_pigpio.dir/x_pigpio.c.o -o /home/cass/Documents/Projects/gittest2/pizero/blink/bin/x_pigpio  -Wl,-rpath,/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-build libpigpio.so -Wl,-Bstatic -lrt -Wl,-Bdynamic 

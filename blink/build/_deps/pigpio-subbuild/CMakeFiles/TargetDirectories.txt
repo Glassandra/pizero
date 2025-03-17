@@ -1,0 +1,3 @@
+/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/CMakeFiles/pigpio-populate.dir
+/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/CMakeFiles/edit_cache.dir
+/home/cass/Documents/Projects/gittest2/pizero/blink/build/_deps/pigpio-subbuild/CMakeFiles/rebuild_cache.dir

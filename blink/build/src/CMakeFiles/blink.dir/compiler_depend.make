@@ -27,7 +27,7 @@ src/CMakeFiles/blink.dir/blink.c.o: /home/cass/Documents/Projects/gittest2/pizer
   /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
   /usr/include/aarch64-linux-gnu/bits/floatn.h \
   /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/pigpio.h \
+  /usr/local/include/pigpio.h \
   /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/aarch64-linux-gnu/bits/wchar.h \
@@ -66,7 +66,7 @@ src/CMakeFiles/blink.dir/blink.c.o: /home/cass/Documents/Projects/gittest2/pizer
 
 /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h:
 
-/usr/include/pigpio.h:
+/usr/local/include/pigpio.h:
 
 /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h:
 

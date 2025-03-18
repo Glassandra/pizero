@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <pigpio.h>
 
-#define LED_PIN 26
+#define LED_PIN 17
 
 int main() {
 	if (gpioInitialise() < 0) {

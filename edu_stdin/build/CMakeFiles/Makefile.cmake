@@ -7,19 +7,23 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "/home/cass/Documents/Projects/gittest2/pizero/edu_stdin/CMakeLists.txt"
+  "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeSystem.cmake"
-  "CMakeLists.txt"
-  "pigpio-populate-prefix/tmp/pigpio-populate-mkdirs.cmake"
+  "/home/cass/Documents/Projects/gittest2/pizero/edu_stdin/lib/CMakeLists.txt"
+  "/home/cass/Documents/Projects/gittest2/pizero/edu_stdin/src/CMakeLists.txt"
+  "/usr/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
   "/usr/share/cmake-3.25/Modules/CMakeGenericSystem.cmake"
   "/usr/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
   "/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake"
   "/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake"
-  "/usr/share/cmake-3.25/Modules/ExternalProject.cmake"
-  "/usr/share/cmake-3.25/Modules/ExternalProject/RepositoryInfo.txt.in"
-  "/usr/share/cmake-3.25/Modules/ExternalProject/cfgcmd.txt.in"
-  "/usr/share/cmake-3.25/Modules/ExternalProject/gitclone.cmake.in"
-  "/usr/share/cmake-3.25/Modules/ExternalProject/gitupdate.cmake.in"
-  "/usr/share/cmake-3.25/Modules/ExternalProject/mkdirs.cmake.in"
+  "/usr/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+  "/usr/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake"
+  "/usr/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+  "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-CXX.cmake"
+  "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/Linux.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/UnixPaths.cmake"
   )
@@ -32,15 +36,13 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "pigpio-populate-prefix/tmp/pigpio-populate-mkdirs.cmake"
-  "pigpio-populate-prefix/tmp/pigpio-populate-gitclone.cmake"
-  "pigpio-populate-prefix/src/pigpio-populate-stamp/pigpio-populate-gitinfo.txt"
-  "pigpio-populate-prefix/tmp/pigpio-populate-gitupdate.cmake"
-  "pigpio-populate-prefix/tmp/pigpio-populate-cfgcmd.txt"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "lib/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/pigpio-populate.dir/DependInfo.cmake"
+  "src/CMakeFiles/greeter.dir/DependInfo.cmake"
+  "lib/CMakeFiles/greetings.dir/DependInfo.cmake"
   )

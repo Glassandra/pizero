@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello.dir/main.cpp.o -o /home/cass/Documents/Projects/gittest2/pizero/edu_stdin/bin/hello 

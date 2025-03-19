@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello3.dir/main3.cpp.o -o /home/cass/Documents/Projects/gittest2/pizero/edu_stdin2/bin/hello3  ../lib/libgreetings.a 
